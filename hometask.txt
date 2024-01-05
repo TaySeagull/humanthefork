@@ -1,1 +1,11 @@
-Другая шляпа (наверное)
+Другая шляпа
+
+Коммиты (не совсем понимаю, что тут имеют в виду, но ладно):
+Merge branch 'boots_и_buttons'
+Merge branch 'hat'
+Merge branches 'buttons' into boots_и_buttons
+Merge branch 'boots' into boots_и_buttons
+fix readme
+dots
+boots
+heat added
